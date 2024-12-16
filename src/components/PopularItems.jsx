@@ -6,7 +6,7 @@ const PopularItems = () => {
     <div>
       <SectionTitle
         heading={"FROM OUR MENU"}
-        subHeading={"---Check it out---"}
+        subHeading={"---Check out---"}
       />
     </div>
   );
